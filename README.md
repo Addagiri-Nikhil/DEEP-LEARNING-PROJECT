@@ -105,3 +105,4 @@ Comment your code clearly.
 Use model.save() or torch.save() to save your model.
 
 OUTPUT :-
+![Image](https://github.com/user-attachments/assets/0e52d61a-83d7-4769-a32a-66fecb7fb96e)
